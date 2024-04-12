@@ -52,6 +52,10 @@ The `PrepaidContract` subclass caters to users preferring to pay upfront, monito
 - `bill`: Bill for the last month.
 - `balance`: Current credit balance.
 
+## Ethical Usage
+
+This documentation and the associated code are provided for educational purposes only and are not intended for plagiarism or any unethical use. By using this documentation and the underlying code, you agree to adhere to the principles of academic integrity and intellectual property rights. The information is meant to foster understanding and proper use of software engineering principles in developing contract management systems.
+
 ---
 
 This documentation aims to provide a comprehensive overview of the system's functionality and its components, facilitating better understanding and management of phone contracts.
